@@ -1,2 +1,2 @@
 # Latex-Test
-Forsøg på latex deling
+Test af deling med git
